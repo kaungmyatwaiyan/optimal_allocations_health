@@ -1,4 +1,3 @@
-# optimal_allocations_health
 Optimal Allocations of Healthcare Resource Using Simulated Annealing
 
 Allocations of healthcare resource have always been a tough issue for the administration.
