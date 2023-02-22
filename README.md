@@ -1,4 +1,4 @@
-Optimal Allocations of Healthcare Resource Using Simulated Annealing
+**Optimal Allocations of Healthcare Resource Using Simulated Annealing**
 
 Allocations of healthcare resource have always been a tough issue for the administration.
 A number of resource allocation strategies are used however the majority of them are neither value-based nor need-driven. 
